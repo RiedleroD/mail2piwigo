@@ -1,0 +1,13 @@
+{
+"maildata":{
+	"serv":"https://your.mail.server",
+	"port":993,
+	"usr":"e@mail.address",
+	"pass":"password"},
+"piwigo":{
+	"serv":"https://your.piwigo.server",
+	"usr":"username",
+	"pass":"password",
+	"categoryid":1},
+"wait":5
+}
